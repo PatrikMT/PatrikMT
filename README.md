@@ -1,8 +1,7 @@
-# <a href="https://www.linkedin.com/in/patrik-martins/">Patrik Torres</a>'s IT and Cybersecurity Project Portfolio
+# <a href="https://www.linkedin.com/in/patrik-martins/">Patrik Torres</a> IT and Cybersecurity Project Portfolio
 
-Olá! Tenho interesse em Cibersegurança com foco em análise de vulnerabilidades, resposta a incidentes e segurança defensiva. 
+Hello! I am interested in Cybersecurity with a focus on vulnerability analysis, incident response, and defensive security.
 
+Information Security | SIEM | Networks | Log Analysis | Linux
 
-Segurança da Informação | SIEM | Redes | Análise de Logs | Linux
-
-Atualmente, estou aprimorando minhas habilidades em projetos hands-on e análise forense.
+Currently, I am enhancing my skills through hands-on projects and forensic analysis.
